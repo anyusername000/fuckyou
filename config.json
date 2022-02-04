@@ -1,0 +1,9 @@
+{
+	"ip":"ult6.falix.gg",
+	"port": 26217,
+	"name": "afkchoserver",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (912008) (912008)",
+	"login-cmd":"/login (912008)"
+}
